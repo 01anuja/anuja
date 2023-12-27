@@ -1,1 +1,1 @@
-hockey uses ball, sticks, and goalposts.
+hockey uses stick, ball, and goalpost.
